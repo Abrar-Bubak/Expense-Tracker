@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Salary",
+      "value": 70000
+    },
+    {
+      "task": "Shopping",
+      "value": "-5000",
+      "id": 2
+    },
+    {
+      "task": "Hostel Rent",
+      "value": "-5000",
+      "id": 3
+    }
+  ]
+}
